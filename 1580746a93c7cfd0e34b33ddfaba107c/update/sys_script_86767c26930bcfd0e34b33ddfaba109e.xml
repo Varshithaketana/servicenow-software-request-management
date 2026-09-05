@@ -36,7 +36,7 @@
 
         inc.initialize();
 
-        inc.short_description = 'License unavailable for ' + current.number;
+        inc.short_description = 'License unavailable for ' + current.variables.what_software_do_you_need.getValue();
 
         inc.description = 'Software request could not be fulfilled due to license shortage.';
 
@@ -60,7 +60,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>86767c26930bcfd0e34b33ddfaba109e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Create Incident on License Issue</sys_name>
         <sys_overrides/>
         <sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package>
@@ -68,7 +68,7 @@
         <sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope>
         <sys_update_name>sys_script_86767c26930bcfd0e34b33ddfaba109e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-09-04 15:46:08</sys_updated_on>
+        <sys_updated_on>2026-09-05 05:21:02</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>

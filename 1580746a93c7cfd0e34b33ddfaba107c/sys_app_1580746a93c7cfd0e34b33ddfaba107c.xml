@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <ide_created>SNS</ide_created>
@@ -23,7 +23,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_2057392_softwa_0</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>An employee requests installation of licensed software through the Service Catalog</short_description>
         <source>x_2057392_softwa_0</source>
         <store_correlation_id/>
         <store_url/>
@@ -33,9 +33,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-09-03 14:17:27</sys_created_on>
         <sys_id>1580746a93c7cfd0e34b33ddfaba107c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-09-03 14:17:27</sys_updated_on>
+        <sys_updated_on>2026-09-04 16:37:56</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
