@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-09-04 16:53:21">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<application_name>Software Request Management</application_name>
+<application_scope>x_2057392_softwa_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Software Request Management Setup</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>9180746a93c7cfd0e34b33ddfaba1080</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:19</sys_created_on>
+<sys_id>c2cd5ef693078314e34b33ddfaba10a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:19</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_384a856e938bcfd0e34b33ddfaba10c3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>create</operation><source_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 16:09:56</sys_created_on><sys_id>384a856e938bcfd0e34b33ddfaba10c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sc_task</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_scope_privilege_384a856e938bcfd0e34b33ddfaba10c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 16:09:56</sys_updated_on><target_name>sc_task</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>578667499</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>12cd963e93078314e34b33ddfaba1064</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06808b79a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>sc_task</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>c14a856e598bcfd041463dd97c9852d5</update_guid>
+<update_guid_history>c14a856e598bcfd041463dd97c9852d5:578667499</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_d2f40962938bcfd0e34b33ddfaba1009</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Software Installation Request"&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;hide_on_grid&gt;false&lt;/hide_on_grid&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;what_software_do_you_need&lt;/name&gt;&lt;no_auto_populate_also_request_for&gt;false&lt;/no_auto_populate_also_request_for&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;100&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;What software do you need?&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:48:27&lt;/sys_created_on&gt;&lt;sys_id&gt;d2f40962938bcfd0e34b33ddfaba1009&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;What software do you need?&lt;/sys_name&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_d2f40962938bcfd0e34b33ddfaba1009&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:48:27&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d2f40962938bcfd0e34b33ddfaba1009"/&gt;&lt;fx_price action="delete_multiple" query="id=d2f40962938bcfd0e34b33ddfaba1009"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;d2f40962938bcfd0e34b33ddfaba1009&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:48:27&lt;/sys_created_on&gt;&lt;sys_id&gt;5655c1a2938bcfd0e34b33ddfaba10c6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:48:27&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;d2f40962938bcfd0e34b33ddfaba1009&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:48:27&lt;/sys_created_on&gt;&lt;sys_id&gt;9a55c1a2938bcfd0e34b33ddfaba10c5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:48:27&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-783378567</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>16cd5ef693078314e34b33ddfaba10a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f50c500000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>What software do you need?</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>1e55c1a2f28bcfd08b1d45b42cc588ca</update_guid>
+<update_guid_history>1e55c1a2f28bcfd08b1d45b42cc588ca:-783378567</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_e9d011ea93cbcfd0e34b33ddfaba1020</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 16:38:39</sys_created_on><sys_id>e9d011ea93cbcfd0e34b33ddfaba1020</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.insert</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_scope_privilege_e9d011ea93cbcfd0e34b33ddfaba1020</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 16:38:39</sys_updated_on><target_name>GlideRecord.insert</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-60162735</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>16cd963e93078314e34b33ddfaba1065</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0682300070000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>GlideRecord.insert</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>a9d011ea46cbcfd0f165fcc17675a122</update_guid>
+<update_guid_history>a9d011ea46cbcfd0f165fcc17675a122:-60162735</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_catalog_31c4cd22938bcfd0e34b33ddfaba1013</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Software Installation Request">b2f385ee934bcfd0e34b33ddfaba10cb</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 15:45:58</sys_created_on><sys_id>31c4cd22938bcfd0e34b33ddfaba1013</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Software Installation Request</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sc_cat_item_catalog_31c4cd22938bcfd0e34b33ddfaba1013</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 15:45:58</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+<payload_hash>-778207889</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>1ecd963e93078314e34b33ddfaba1062</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f2c7fb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Service Catalog.Software Installation Request</target_name>
+<type>Catalog Items Catalog</type>
+<update_domain>global</update_domain>
+<update_guid>cec4cd22398bcfd09063c114b3250b18</update_guid>
+<update_guid_history>cec4cd22398bcfd09063c114b3250b18:-778207889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_category_cec4cd22938bcfd0e34b33ddfaba1033</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Software Installation Request">b2f385ee934bcfd0e34b33ddfaba10cb</sc_cat_item><sc_category display_value="Software">2809952237b1300054b6a3549dbe5dd4</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 15:45:59</sys_created_on><sys_id>cec4cd22938bcfd0e34b33ddfaba1033</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Software.Software Installation Request</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sc_cat_item_category_cec4cd22938bcfd0e34b33ddfaba1033</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 15:45:59</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+<payload_hash>341427133</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>52cd963e93078314e34b33ddfaba1063</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f2c8800000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Software.Software Installation Request</target_name>
+<type>Catalog Item Category</type>
+<update_domain>global</update_domain>
+<update_guid>cec4cd22b68bcfd0177e62422665ad39</update_guid>
+<update_guid_history>cec4cd22b68bcfd0177e62422665ad39:341427133</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_5dd0152a93cbcfd0e34b33ddfaba109a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 16:38:39</sys_created_on><sys_id>5dd0152a93cbcfd0e34b33ddfaba109a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sc_request</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_scope_privilege_5dd0152a93cbcfd0e34b33ddfaba109a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 16:38:39</sys_updated_on><target_name>sc_request</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>104319359</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>56cd963e93078314e34b33ddfaba1064</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06822ffa70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>sc_request</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>29d011ea72cbcfd011a82c3ab579141a</update_guid>
+<update_guid_history>29d011ea72cbcfd011a82c3ab579141a:104319359</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_5d268de2938bcfd0e34b33ddfaba1064</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Select urgency level.">40b58da2938bcfd0e34b33ddfaba1061</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 15:52:19</sys_created_on><sys_id>5d268de2938bcfd0e34b33ddfaba1064</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Critical</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>question_choice_5d268de2938bcfd0e34b33ddfaba1064</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 15:52:19</sys_updated_on><text>Critical</text><value>C</value></question_choice><fx_price action="delete_multiple" query="id=5d268de2938bcfd0e34b33ddfaba1064"/></record_update>]]></payload>
+<payload_hash>92708786</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>5acd5ef693078314e34b33ddfaba10a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f895380000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Critical</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>f6364126de8bcfd04f210fc5093ce1b5</update_guid>
+<update_guid_history>f6364126de8bcfd04f210fc5093ce1b5:92708786</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_86767c26930bcfd0e34b33ddfaba109e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sc_req_item&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Create Incident on License Issue&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+    if (current.state == -5) { // On Hold
+
+        var inc = new GlideRecord('incident');
+
+        inc.initialize();
+
+        inc.short_description = 'License unavailable for ' + current.number;
+
+        inc.description = 'Software request could not be fulfilled due to license shortage.';
+
+        inc.caller_id = current.request.requested_for;
+
+        inc.assignment_group.setDisplayValue('Software');
+
+        //inc.priority = 3;
+		inc.impact=2;
+		
+		inc.urgency=2;
+
+        inc.insert();
+
+    }
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:45:25&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;86767c26930bcfd0e34b33ddfaba109e&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Incident on License Issue&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_86767c26930bcfd0e34b33ddfaba109e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:46:08&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=86767c26930bcfd0e34b33ddfaba109e"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1219643135</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>5acd963e93078314e34b33ddfaba1065</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06d1947240000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table>sc_req_item</table>
+<target_name>Create Incident on License Issue</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>356ecabaad8383144adff3525ab5582f</update_guid>
+<update_guid_history>356ecabaad8383144adff3525ab5582f:1219643135,95b506bac843831420f1a3fb0e99d855:-1211715406,0c21a96efc4fcfd04377e44e3ad8826f:-1390194813,87f1556efccbcfd0396fb59e500673a1:838504684,f2e6f866380bcfd021b7ae6f18a63866:1466972786</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_40b58da2938bcfd0e34b33ddfaba1061</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Software Installation Request"&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;hide_on_grid&gt;false&lt;/hide_on_grid&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;select_urgency_level&lt;/name&gt;&lt;no_auto_populate_also_request_for&gt;false&lt;/no_auto_populate_also_request_for&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;400&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Select urgency level.&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:51:11&lt;/sys_created_on&gt;&lt;sys_id&gt;40b58da2938bcfd0e34b33ddfaba1061&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Select urgency level.&lt;/sys_name&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_40b58da2938bcfd0e34b33ddfaba1061&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:51:11&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;3&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=40b58da2938bcfd0e34b33ddfaba1061"/&gt;&lt;fx_price action="delete_multiple" query="id=40b58da2938bcfd0e34b33ddfaba1061"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;40b58da2938bcfd0e34b33ddfaba1061&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:51:11&lt;/sys_created_on&gt;&lt;sys_id&gt;c2f509e2938bcfd0e34b33ddfaba10d8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:51:11&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;40b58da2938bcfd0e34b33ddfaba1061&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:51:11&lt;/sys_created_on&gt;&lt;sys_id&gt;0af509e2938bcfd0e34b33ddfaba10d7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:51:11&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1109484589</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:19</sys_created_on>
+<sys_id>8acd5ef693078314e34b33ddfaba10a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f78b7f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:19</sys_updated_on>
+<table/>
+<target_name>Select urgency level.</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>1ef509e2e98bcfd07479f4c1adee1fdc</update_guid>
+<update_guid_history>1ef509e2e98bcfd07479f4c1adee1fdc:1109484589</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_f616c9aa930bcfd0e34b33ddfaba10da</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Select urgency level.">40b58da2938bcfd0e34b33ddfaba1061</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 15:52:04</sys_created_on><sys_id>f616c9aa930bcfd0e34b33ddfaba10da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>High</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>question_choice_f616c9aa930bcfd0e34b33ddfaba10da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 15:52:04</sys_updated_on><text>High</text><value>H</value></question_choice><fx_price action="delete_multiple" query="id=f616c9aa930bcfd0e34b33ddfaba10da"/></record_update>]]></payload>
+<payload_hash>-635368553</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>92cd963e93078314e34b33ddfaba1062</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f85a3a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>High</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>0b26cde27b8bcfd0226b5c15422616d6</update_guid>
+<update_guid_history>0b26cde27b8bcfd0226b5c15422616d6:-635368553</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_1580746a93c7cfd0e34b33ddfaba107c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>SNS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Software Request Management</name><package_json/><package_resolver_version>1.0.0</package_resolver_version><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_2057392_softwa_0</scope><scoped_administration>false</scoped_administration><short_description/><source>x_2057392_softwa_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 14:17:27</sys_created_on><sys_id>1580746a93c7cfd0e34b33ddfaba107c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 14:17:27</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=1580746a93c7cfd0e34b33ddfaba107c"/></record_update>]]></payload>
+<payload_hash>1312421359</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>96cd963e93078314e34b33ddfaba1063</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067a1bc190000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Software Request Management</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>1180746aaac7cfd0cb1e1574a76e3edc</update_guid>
+<update_guid_history>1180746aaac7cfd0cb1e1574a76e3edc:1312421359</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_4875c5ae934bcfd0e34b33ddfaba101a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Software Installation Request"&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;hide_on_grid&gt;false&lt;/hide_on_grid&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;specify_version_if_required&lt;/name&gt;&lt;no_auto_populate_also_request_for&gt;false&lt;/no_auto_populate_also_request_for&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;200&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Specify version (if required)&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:49:06&lt;/sys_created_on&gt;&lt;sys_id&gt;4875c5ae934bcfd0e34b33ddfaba101a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Specify version (if required)&lt;/sys_name&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_4875c5ae934bcfd0e34b33ddfaba101a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:49:06&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4875c5ae934bcfd0e34b33ddfaba101a"/&gt;&lt;fx_price action="delete_multiple" query="id=4875c5ae934bcfd0e34b33ddfaba101a"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;4875c5ae934bcfd0e34b33ddfaba101a&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:49:06&lt;/sys_created_on&gt;&lt;sys_id&gt;a37509a2938bcfd0e34b33ddfaba10cf&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:49:06&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;4875c5ae934bcfd0e34b33ddfaba101a&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:49:06&lt;/sys_created_on&gt;&lt;sys_id&gt;e77509a2938bcfd0e34b33ddfaba10ce&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:49:06&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1666290439</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>9acd5ef693078314e34b33ddfaba10a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f5a3950000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Specify version (if required)</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>377509a2648bcfd00b1d8ae7972ef8d3</update_guid>
+<update_guid_history>377509a2648bcfd00b1d8ae7972ef8d3:1666290439</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_6dd011ea93cbcfd0e34b33ddfaba101c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 16:38:39</sys_created_on><sys_id>6dd011ea93cbcfd0e34b33ddfaba101c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScopedGlideElement</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_scope_privilege_6dd011ea93cbcfd0e34b33ddfaba101c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 16:38:39</sys_updated_on><target_name>ScopedGlideElement</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-1642855579</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>9acd963e93078314e34b33ddfaba1064</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06822ffe30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>ScopedGlideElement</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>2dd011eaf2cbcfd083be7f3f58b2a01e</update_guid>
+<update_guid_history>2dd011eaf2cbcfd083be7f3f58b2a01e:-1642855579</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_8c0689e2938bcfd0e34b33ddfaba1029</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Select urgency level.">40b58da2938bcfd0e34b33ddfaba1061</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 15:51:53</sys_created_on><sys_id>8c0689e2938bcfd0e34b33ddfaba1029</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Normal</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>question_choice_8c0689e2938bcfd0e34b33ddfaba1029</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 15:51:53</sys_updated_on><text>Normal</text><value>N</value></question_choice><fx_price action="delete_multiple" query="id=8c0689e2938bcfd0e34b33ddfaba1029"/></record_update>]]></payload>
+<payload_hash>-287673603</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>9ecd5ef693078314e34b33ddfaba10a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f831210000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Normal</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>e8268de2ff8bcfd070f3f8040a903796</update_guid>
+<update_guid_history>e8268de2ff8bcfd070f3f8040a903796:-287673603</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_d580746a93c7cfd0e34b33ddfaba10df</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2057392_softwa_0.admin</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 14:17:27</sys_created_on><sys_id>d580746a93c7cfd0e34b33ddfaba10df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2057392_softwa_0.admin</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_user_role_d580746a93c7cfd0e34b33ddfaba10df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 14:17:27</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1433442249</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>9ecd963e93078314e34b33ddfaba1065</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067a1bd070000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>x_2057392_softwa_0.admin</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>5980746a6bc7cfd0023ba163e392daf5</update_guid>
+<update_guid_history>5980746a6bc7cfd0023ba163e392daf5:1433442249</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_d580746a93c7cfd0e34b33ddfaba10f7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2057392_softwa_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 14:17:28</sys_created_on><sys_id>d580746a93c7cfd0e34b33ddfaba10f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2057392_softwa_0.user</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_user_role_d580746a93c7cfd0e34b33ddfaba10f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 14:17:28</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>2133391657</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>d2cd963e93078314e34b33ddfaba1066</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067a1bdf10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>x_2057392_softwa_0.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>dd80746ab5c7cfd0ea08731afe64defe</update_guid>
+<update_guid_history>dd80746ab5c7cfd0ea08731afe64defe:2133391657</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_b2f385ee934bcfd0e34b33ddfaba10cb</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category display_value="Software"&gt;2809952237b1300054b6a3549dbe5dd4&lt;/category&gt;&lt;cc_render_type&gt;system&lt;/cc_render_type&gt;&lt;checked_out&gt;false&lt;/checked_out&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;Allows employees to request software installations. Fulfills via Software Support Team.&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/flow_designer_flow&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta&gt;software&lt;/meta&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Software Installation Request&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=b2f385ee934bcfd0e34b33ddfaba10cb&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;sc_catalogs&gt;e0d08b13c3330100c8b837659bba8fb4&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;secondary_owners/&gt;&lt;short_description&gt;Requested to install company-approved software&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:45:57&lt;/sys_created_on&gt;&lt;sys_id&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Software Installation Request&lt;/sys_name&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_b2f385ee934bcfd0e34b33ddfaba10cb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:37:56&lt;/sys_updated_on&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;9&lt;/version&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b2f385ee934bcfd0e34b33ddfaba10cb"/&gt;&lt;fx_price action="delete_multiple" query="id=b2f385ee934bcfd0e34b33ddfaba10cb"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:45:58&lt;/sys_created_on&gt;&lt;sys_id&gt;fdc4cd22938bcfd0e34b33ddfaba100d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:45:58&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:45:58&lt;/sys_created_on&gt;&lt;sys_id&gt;f5c4cd22938bcfd0e34b33ddfaba1010&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:45:58&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1980389883</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>d6cd963e93078314e34b33ddfaba1062</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06d11c56f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Software Installation Request</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>b58c0e3aaf838314228bad89b3a514c5</update_guid>
+<update_guid_history>b58c0e3aaf838314228bad89b3a514c5:1980389883,7a364126c28bcfd0e20d4e4986d943b1:-756157850,8f268d6e9587cfd02ec20ac13e60b371:1627430693,a4268de2608bcfd05a69ec5b64bf4492:-283948060,4af509e2f68bcfd0cf20de76b99e3bd5:2099640483,40a54962a28bcfd00430e03240a10e66:188261730,ef7509a29d8bcfd0dcee3279749b5011:-1723117023,da55c1a22a8bcfd0f8f951af4534ecc3:660471520,46c4cd22668bcfd0ccd86f2c95b2e34e:-1250907233,cac4cd22fa8bcfd0ba1a40a2b1f63e43:807348491</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_hub_flow_ed39b46a930bcfd0e34b33ddfaba1035</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_flow"&gt;&lt;sys_hub_flow action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_high_security_roles&gt;false&lt;/allow_high_security_roles&gt;&lt;annotation/&gt;&lt;attributes&gt;browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=88315000,viewActivatedIn=naturalLanguage&lt;/attributes&gt;&lt;authored_on_release_version&gt;29000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;Handles software request approvals and fulfillment tasks&lt;/description&gt;&lt;display_name_after_preview/&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;generation_source/&gt;&lt;internal_name&gt;software_request_workflow&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"{{static.8a4dde73c6112278017a6a4baf547aa7}}","label":"Software","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","choices":[{"order":0.0}],"usedInstances":{"ef8f9309-f999-47a2-b38f-1e41aa994beb":["approval_conditions"]}},{"name":"Service Catalog_1.request_item.group_list","label":"Trigger - Service Catalog➛Requested Item Record➛Group list","reference":"sys_user_group","reference_display":"Group","type":"glide_list","base_type":"glide_list","parent_table_name":"sc_req_item","column_name":"group_list","choices":[{"order":0.0}],"usedInstances":{}},{"name":"Service Catalog_1.request_item.requested_for.manager","label":"Trigger - Service Catalog➛Requested Item Record➛Requested for➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager","choices":[{"order":0.0}],"usedInstances":{"ef8f9309-f999-47a2-b38f-1e41aa994beb":["approval_conditions"]}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","choices":[{"order":0.0}],"usedInstances":{"ef8f9309-f999-47a2-b38f-1e41aa994beb":["record"],"4d891f57-16de-4be1-b827-e49e19986fd0":["ah_requested_item"]},"attributes":{"default_search_field":"number"}},{"name":"Service Catalog_1.request_item.assigned_to.manager.manager","label":"Trigger - Service Catalog➛Requested Item Record➛Assigned to➛Manager➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager","choices":[{"order":0.0}],"usedInstances":{}}]&lt;/label_cache&gt;&lt;master_snapshot&gt;831a4ef293838314e34b33ddfaba1024&lt;/master_snapshot&gt;&lt;master_snapshot_digest/&gt;&lt;name&gt;Software Request Workflow&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;pre_compiled&gt;false&lt;/pre_compiled&gt;&lt;remote_trigger_id&gt;571a4ef293838314e34b33ddfaba109e&lt;/remote_trigger_id&gt;&lt;run_as&gt;user&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;show_draft_actions&gt;false&lt;/show_draft_actions&gt;&lt;show_triggered_flows&gt;false&lt;/show_triggered_flows&gt;&lt;status&gt;published&lt;/status&gt;&lt;substatus/&gt;&lt;sys_class_name&gt;sys_hub_flow&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:55:26&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/sys_id&gt;&lt;sys_mod_count&gt;19&lt;/sys_mod_count&gt;&lt;sys_name&gt;Software Request Workflow&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_flow_ed39b46a930bcfd0e34b33ddfaba1035&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:23&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;updation_source/&gt;&lt;version&gt;2&lt;/version&gt;&lt;version_record&gt;6ea30dae934bcfd0e34b33ddfaba1031&lt;/version_record&gt;&lt;/sys_hub_flow&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_flow_catalog_trigger action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;catalog_item/&gt;&lt;name/&gt;&lt;published_version/&gt;&lt;run_flow_in&gt;background&lt;/run_flow_in&gt;&lt;sys_class_name&gt;sys_flow_catalog_trigger&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:23&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;571a4ef293838314e34b33ddfaba109e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_overrides/&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:23&lt;/sys_updated_on&gt;&lt;trigger_definition/&gt;&lt;/sys_flow_catalog_trigger&gt;&lt;sys_trigger_runner_mapping action="delete_multiple" query="identifier=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=ed39b46a930bcfd0e34b33ddfaba1035^sys_idNOT INa139b46a930bcfd0e34b33ddfaba103b"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/id&gt;&lt;name&gt;Software Request Workflow&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:55:26&lt;/sys_created_on&gt;&lt;sys_id&gt;a139b46a930bcfd0e34b33ddfaba103b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 14:55:26&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=a139b46a930bcfd0e34b33ddfaba103b"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=ed39b46a930bcfd0e34b33ddfaba1035^sys_idNOT IN6289bcaa930bcfd0e34b33ddfaba1001,6e897caa930bcfd0e34b33ddfaba1074"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;sc_req_item&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;model display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/model&gt;&lt;model_id&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_ed39b46a930bcfd0e34b33ddfaba1035&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:56:52&lt;/sys_created_on&gt;&lt;sys_id&gt;6289bcaa930bcfd0e34b33ddfaba1001&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:20&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=6289bcaa930bcfd0e34b33ddfaba1001"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;default_search_field=number,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;request_item&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;label&gt;Request Item&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;model display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/model&gt;&lt;model_id&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_ed39b46a930bcfd0e34b33ddfaba1035&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sc_req_item"&gt;sc_req_item&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:56:52&lt;/sys_created_on&gt;&lt;sys_id&gt;6e897caa930bcfd0e34b33ddfaba1074&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:20&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=6e897caa930bcfd0e34b33ddfaba1074"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=ed39b46a930bcfd0e34b33ddfaba1035^sys_idNOT INeb0e3ce2934bcfd0e34b33ddfaba109c"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Service Catalog&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:16:36&lt;/sys_created_on&gt;&lt;sys_id&gt;eb0e3ce2934bcfd0e34b33ddfaba109c&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:21&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Service Catalog"&gt;c43a1011c36813002841b63b12d3ae15&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/61TXWvbMBT9K0FPG3hgJ2uz+G0UCoFuhabrSxlGlq4SMVlyJdltFvrfd29sJ2nnjUH3JOl+nnvP0f2OGV6CYTm7aezk0rjHydKyhGkbwVtubrc1oFNsnBaA9u5ypUNk+f2OqRU8NGDRlX/IEqbuuGkoXjkPa+8aKzFHXZ20UNRC4/kiYlnxNeXRfQUGRATJcsVNALR8C6evLzoEbde94Tn5M4qSix9/R3GMmLyToHhj4vs34vmesIpbyaPz22OQd9UtVLXhEQ5G5yV4lmdpmrCWIK+2YSm7rpZX1N83tiCshSZS2n4uvEodsNj27mgRG22kB4u8IISae6wQqf7ulSsipcXA+sVArKbG5+kiFfPpYj6fprNZmqqzUgklxPxTlp5nZwuMG5fLKNz4Sjun88JTBCtP1vj7zjxweW3N0bBBUXazVvwp6J9Y/GNKcQp8xz75Ds+i39GwHkIR9qo1/66EdkxK/SApaW+s1gttt2NfYlgFqaXvdvH/AWZvBjglgN3qruuoHUqIzYhaXhrKCdvQEe5BYEoRvV6vMRGTnGkq+3VMFz36E+02AdmCmhRBFA+fZrVxjzcDnZfa7iH1TuMEN4cXj9i5bCLtb8e4bDlmkKKjxx7Pe1UUDw1l7H/P0KvYT0QBQXhdx88i6hYOX/kXzRJ25h8FAAA=&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;service_catalog&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=ed39b46a930bcfd0e34b33ddfaba1035^sys_idNOT IN1e2e7c22934bcfd0e34b33ddfaba10bd,87218d6a934bcfd0e34b33ddfaba1050"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Ask For Approval"&gt;f8f2e9920b10030085c083eb37673abd&lt;/action_type&gt;&lt;action_type_parent/&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;1&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:17:03&lt;/sys_created_on&gt;&lt;sys_id&gt;1e2e7c22934bcfd0e34b33ddfaba10bd&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:21&lt;/sys_updated_on&gt;&lt;ui_id&gt;ef8f9309-f999-47a2-b38f-1e41aa994beb&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1XTW/bOBD9K4bOjpeyPiznFmyQIovdLZBke4kDgSJHMQtackUprdfwf9+hSFmK3ShG7KJdIBfDHHI4bx7fiMP7tSO4c+6AH3oB/kxSj7hjl0QQRhGbEsqiMAx8zxk6GV0ArqTLZZE/URkXQFWe4QQOKj2Df7lQS0lXn1oLmwvJC8ic8/uHobOkBe5SQuGcr3emytUSYkkTkOh4WxYie0T3Q8E1jhcW3eCmQfcibB0QJ1QTKi+4xjUeOvCthIwDhk6pVDB0FjTjtMyL1daCu/CPmWwNc5GVJuMF/abEv7i1GxK9MAXMkVk6tsPYUtWwlAsGH5elQGi1paSJbCjMZbXI/jZ5aJIhpZUsOyRXCveDpQatUVhI6e08/3rTBLwSWZ2fnZQ5o3I7oiWykFQlKH0wlbjb4cZY/tw9HZCwwIjxAtlFS6wpFnUUBL0YPUocjFKZf0V0SjxmI8p0hiMkk46u0H5Zmz/RQuh0/8Jt0FmH+ycTXyq41qcfjpNwSiJ+xlOSnPmRF5xRBuQMQjeAgIcscD1nU1Mbf6l0UoYkS0dsGMUFihViWV4ghCewmW+GVv/ETccwnY5J4hLiERIFjEQeJN4knHiUR98RUipA8o78m4n9MujMvK0crnSoQa2A4cF490riygJ+KRFbEPUwzkywkxdFRMhPqoqyqI4pih+j9dd0axJ+RbysVwzQ+Xh/zqsi69FuPBeqPtIXNdxZcSotHwC/cf7D4N+V8m5aPUr23pX8Cyt5EvVJgZH2yAtgeKIdCa/Xt1A8IcuD3xGnzB9jd1QAXiKqjEUJi83mhP3JZc4qzeHg+rJR8QHQG++bBvtuLla33O4eC94Kl/QL12jiEN1643fVnkS1jVGjs0eI/3oXYh+yaT/bQZ9i0mkrEF4hk7SErtxnjklw5pzPnCzPYOYMZ45eFWsZ1WZcgYltJ2rbemPGVUGtu9sZtr6crlS9UrE58Eoa6zOLKQdrP2V53doAg0tE/dud6NwVr3O2rdHK+H+Xxqb5bzIxvInuTRGc7Kbw/6fvgB/X3sfblhhLDL8LR/fvfq8uoCOCbSPD8owLjVd1yso0y6AustWH+/ValVgVbBRRn3OYeCx03fF4EhF3QkPqJzQN/Amlk83mYV/9x2z1trJpH78oadWUzAHUbC8m69dLlS2d9kFtnWzZ+Ke6p35ef/Vr1s2xJZKw3gaFteduuGuLQrEYO6m6i9qX+Y3psYAPrs3827R7p2M+exYcgPeZ8z5+q9R6uPMMcE/4DHgX6fEiffgP2PLOlYkUAAA=&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=1e2e7c22934bcfd0e34b33ddfaba10bd"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Create Catalog Task"&gt;af51fd0e73141300612c273ffff6a785&lt;/action_type&gt;&lt;action_type_parent/&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;2&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:30:13&lt;/sys_created_on&gt;&lt;sys_id&gt;87218d6a934bcfd0e34b33ddfaba1050&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:21&lt;/sys_updated_on&gt;&lt;ui_id&gt;4d891f57-16de-4be1-b827-e49e19986fd0&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1Y34/aOBD+V1Ce7iTEJcAStG93t0LqQ1vptmofSmU5yQSsOnFqO9A9xP/ecWInYYEc2qWrVr192vjXfPPNN54xH3ceS7xbL4xugjTxIZwE02Di+7NgHI/DSYp/MxpG4A29nGaAK2OqKRcrsqGS0YiDwqkN5aWZw38TpgpOH963I/Ga8URC7t1+/DT0CirxHA3Su909mtIPBRBOI+C48Z6Xaj34q4w/g8ZDLgXptv9doxy876DsccCYxilljEbOppCJgTkbevBVQ54AYkgpVzD0MponVAv50IxIoMnbnLcDa5brmoCMflXsXzw/GPu+b5amgE7Hlp/mk1juHG2CxfC20Ezk9Yg2aO2k4GWWv6kdMqxDSkuuO6yXCs+DwsA2OCyo9H4ttv84gwuWVx7aSS5iypsvqrVkUamRH4wUUyTlOAR5yxvJASpSvGoLGgUOGZojGS0Klq9IIcWGVSYQcTZacfwYpVxsEZpiq3xEY+PeCLmkowWO31XDLmiv8RjcPPSUKCXy4whgGjIiKmYQw9YsiCUrDN3btMX32+9GOHnMywRIhvQwiZabadDomadlCZauDjCQZCtr63bJvgoU+VIaimrKLbmkjs/eofgTfdqA5XE/tAk2Cfu0S2etPumaqLWQ2kCpDjQCaHPsXqR6SyUMFiVPGeeG8ME7qj4fJ1/f0idmJWoiX7l8vMCnZqPxaHB34FG/vy4lnUWbjeP/s3H3nfLsuRKnaZ8c5vODkFf0keq71baKcfyUktuJp+n2nbE2eFNbuxTsyc1nPLBqPRizivWvptj5i8i1E4R64u5cLH4KVaMVbvZUsKty31z6WNRqPVtu6jL23DQIJ723on8gIglfSlAaEmKKWicVdrt7kBsM4sC2MiQY2cXV0v3+is1WE62m0/pvH9q91oPBq9qDHudslsiOOZskQX+SmIBdliOT8WGOYNgRhgNwKl2OHPgV7nokHokkiRRFYZ27SpuT9rYEUacGINcYAA3E9eOPEuB7yvsClM3lb2G6NHyk8nNenFf6zdXKwQmpI4o+qT/y4dcQOjaXePsDlfH6hVQ+PrgFt5Tpjq6DY2HbcvTE1gY3/7GwD7BL0bnNH2psR2CtfCMhONC8Fe/0auKdvkgvY5k93ch0nn4/vIyf3ZT0P9XiAxGkDHjS/V2HKgOpcmslRVksS9+fJLulE/LSu102r82lN1zWO6vhOZ0mCdqNZ0EwHodzP8CXIZ1G2IBPQ0rDarl6UIQlF64/0fn8eACfmMyu2tSODS8Onjtg4UJ3IprujeJK1sbasLk9uVpuz26OXtbto6GvLjW/TVyzLtW940+WzywvSq1Gh8/MMzn+6RsiGLoQxRUAAA==&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=87218d6a934bcfd0e34b33ddfaba1050"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;request_item&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Request Item&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_ed39b46a930bcfd0e34b33ddfaba1035&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:56:52&lt;/sys_created_on&gt;&lt;sys_id&gt;22897caa930bcfd0e34b33ddfaba10e2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 14:56:52&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_ed39b46a930bcfd0e34b33ddfaba1035&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 14:56:53&lt;/sys_created_on&gt;&lt;sys_id&gt;fe89bcaa930bcfd0e34b33ddfaba1035&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 14:56:53&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;sys_hub_flow_snapshot action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_high_security_roles&gt;false&lt;/allow_high_security_roles&gt;&lt;annotation/&gt;&lt;attributes&gt;browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage&lt;/attributes&gt;&lt;authored_on_release_version&gt;29000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;Handles software request approvals and fulfillment tasks&lt;/description&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;internal_name&gt;software_request_workflow&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"{{static.8a4dde73c6112278017a6a4baf547aa7}}","label":"Software","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","choices":[{"order":0.0}],"usedInstances":{"ef8f9309-f999-47a2-b38f-1e41aa994beb":["approval_conditions"]}},{"name":"Service Catalog_1.request_item.group_list","label":"Trigger - Service Catalog➛Requested Item Record➛Group list","reference":"sys_user_group","reference_display":"Group","type":"glide_list","base_type":"glide_list","parent_table_name":"sc_req_item","column_name":"group_list","choices":[{"order":0.0}],"usedInstances":{}},{"name":"Service Catalog_1.request_item.requested_for.manager","label":"Trigger - Service Catalog➛Requested Item Record➛Requested for➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager","choices":[{"order":0.0}],"usedInstances":{"ef8f9309-f999-47a2-b38f-1e41aa994beb":["approval_conditions"]}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","choices":[{"order":0.0}],"usedInstances":{"ef8f9309-f999-47a2-b38f-1e41aa994beb":["record"],"4d891f57-16de-4be1-b827-e49e19986fd0":["ah_requested_item"]},"attributes":{"default_search_field":"number"}},{"name":"Service Catalog_1.request_item.assigned_to.manager.manager","label":"Trigger - Service Catalog➛Requested Item Record➛Assigned to➛Manager➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager","choices":[{"order":0.0}],"usedInstances":{}}]&lt;/label_cache&gt;&lt;master&gt;true&lt;/master&gt;&lt;name&gt;Software Request Workflow&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;parent_flow display_value="Software Request Workflow"&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/parent_flow&gt;&lt;remote_trigger_id/&gt;&lt;run_as&gt;user&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;status&gt;published&lt;/status&gt;&lt;sys_class_name&gt;sys_hub_flow_snapshot&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;831a4ef293838314e34b33ddfaba1024&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;version&gt;2&lt;/version&gt;&lt;/sys_hub_flow_snapshot&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=831a4ef293838314e34b33ddfaba1024^sys_idNOT IN431a4ef293838314e34b33ddfaba1025"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;831a4ef293838314e34b33ddfaba1024&lt;/id&gt;&lt;name&gt;Software Request Workflow&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;431a4ef293838314e34b33ddfaba1025&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=431a4ef293838314e34b33ddfaba1025"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=831a4ef293838314e34b33ddfaba1024^sys_idNOT IN031a4ef293838314e34b33ddfaba1040,cf1a4ef293838314e34b33ddfaba1026"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;default_search_field=number,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;request_item&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;label&gt;Request Item&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;model display_value="Software Request Workflow"&gt;831a4ef293838314e34b33ddfaba1024&lt;/model&gt;&lt;model_id&gt;831a4ef293838314e34b33ddfaba1024&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_831a4ef293838314e34b33ddfaba1024&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sc_req_item"&gt;sc_req_item&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;031a4ef293838314e34b33ddfaba1040&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=031a4ef293838314e34b33ddfaba1040"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;sc_req_item&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;model display_value="Software Request Workflow"&gt;831a4ef293838314e34b33ddfaba1024&lt;/model&gt;&lt;model_id&gt;831a4ef293838314e34b33ddfaba1024&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_831a4ef293838314e34b33ddfaba1024&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;cf1a4ef293838314e34b33ddfaba1026&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=cf1a4ef293838314e34b33ddfaba1026"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=831a4ef293838314e34b33ddfaba1024^sys_idNOT IN4f1a4ef293838314e34b33ddfaba106f"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="Software Request Workflow"&gt;831a4ef293838314e34b33ddfaba1024&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Service Catalog&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;4f1a4ef293838314e34b33ddfaba106f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Service Catalog"&gt;c43a1011c36813002841b63b12d3ae15&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/61TXWvbMBT9K0FPG3hgJ2uz+G0UCoFuhabrSxlGlq4SMVlyJdltFvrfd29sJ2nnjUH3JOl+nnvP0f2OGV6CYTm7aezk0rjHydKyhGkbwVtubrc1oFNsnBaA9u5ypUNk+f2OqRU8NGDRlX/IEqbuuGkoXjkPa+8aKzFHXZ20UNRC4/kiYlnxNeXRfQUGRATJcsVNALR8C6evLzoEbde94Tn5M4qSix9/R3GMmLyToHhj4vs34vmesIpbyaPz22OQd9UtVLXhEQ5G5yV4lmdpmrCWIK+2YSm7rpZX1N83tiCshSZS2n4uvEodsNj27mgRG22kB4u8IISae6wQqf7ulSsipcXA+sVArKbG5+kiFfPpYj6fprNZmqqzUgklxPxTlp5nZwuMG5fLKNz4Sjun88JTBCtP1vj7zjxweW3N0bBBUXazVvwp6J9Y/GNKcQp8xz75Ds+i39GwHkIR9qo1/66EdkxK/SApaW+s1gttt2NfYlgFqaXvdvH/AWZvBjglgN3qruuoHUqIzYhaXhrKCdvQEe5BYEoRvV6vMRGTnGkq+3VMFz36E+02AdmCmhRBFA+fZrVxjzcDnZfa7iH1TuMEN4cXj9i5bCLtb8e4bDlmkKKjxx7Pe1UUDw1l7H/P0KvYT0QBQXhdx88i6hYOX/kXzRJ25h8FAAA=&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;service_catalog&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=831a4ef293838314e34b33ddfaba1024^sys_idNOT IN0f1a4ef293838314e34b33ddfaba106c,4b1a4ef293838314e34b33ddfaba106e"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Ask For Approval"&gt;f8f2e9920b10030085c083eb37673abd&lt;/action_type&gt;&lt;action_type_parent display_value="Ask For Approval"&gt;bae0a1120b10030085c083eb37673a92&lt;/action_type_parent&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot&gt;f8f2e9920b10030085c083eb37673abd&lt;/compiled_snapshot&gt;&lt;display_text/&gt;&lt;flow display_value="Software Request Workflow"&gt;831a4ef293838314e34b33ddfaba1024&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;1&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;0f1a4ef293838314e34b33ddfaba106c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;ui_id&gt;ef8f9309-f999-47a2-b38f-1e41aa994beb&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1YXW/iOBT9K8jPlHEICaFvVVFXXe3OSG1nXkoVGfumeGUSJk46wyD++9zEzsdAy8CUSu2qLwjf649zj8/BNrcrIgU5JTDwXQ8/hpFLnb5DA/CDgI8o44HvewOXdEnM5oA92WKRJg9MhSkwncSYwEZeZPCrkHqh2PJLE+EzqUQKMTm9veuSBUtxlgxScrraSO0LQ7EpKOx6ZnF0riocTwLMlosiobNUxve2/Y+d5roKJqkoYPW7BL5nEAtAPBFTGrpkzmLBsiRd1hGcWnyKVROYyTgzBc/Zdy1/4HqOT4uOEWCJ3LJRN0PLlAlHY5YxRJLzLE9r4hLJQRtyBEQsV9l5O2Y6fFpkEossh2RsqqrRicrn8UfDCKknaG1MrhEELIpKC+i2juh6lny7qlBeyLgkxSZVwpmqWyxD6qZ5VuBZkVzebLBsIls8g4I5rhjOcZ8wEhabJctVEPS8d6+w0YtU8g3RaXkf9xgvKuzhDrDeBcbHZfgLS2VR7r84DQ4ulvscy685XBY68vtTf0QDcSIiOj0ZBK53wjjQE/AdDzzhc89xybpL9FKfK6Z1QxTuUPg1L8o0tFmCQsNxMYSncpGdIagHsFysu9ZF1In6MBr16dSh1KU08DgNXJi6Q3/oMhE8ItJIghItE1WJbTO1MoeZag9UW6a6sLCegmstVTbDstOvtirHdz6axNGtFVD6lryFiz/HWi/jmMPVbyj4jQX4TrFB6yD5L8nTeIcDwpnUpTKedEKrx2GO2ANk5Yi/DcpNQ2yC/xM/uO9++P/7YRjskhqnjaRS4CiMlhFWq2tIH5D3zjkiV8l96PRSwCNOZ6HMYL5eH+HGtQe+ygpXFcBNwFb8IuF5uTFSbKh/bDOdy3Ejf7pb/kYk+6jf7b9r/zVpvwoWeK1G8NvOjnizWjdHiLdLktGoUaDIkVuWQds0E2JKnpDTCYmTGCakOyFFr7CQZBnGHlhYnShjq7Vp5ymzw51Wsxkr2FKXPTWfgciVif4SCUvH2PgxTLoHI5VJxzl0xoaSbZKqh1CF07Ait06ra9uhnOnDjWyfWt7RTq3BWzqznvs+erlnT1g/DNCW+OvyAu+awU79QUts9dWMJ7GQRQW6ZU7zvAB9Fi//ul2tdIbe4r2ADYSAoct9x+n3hwF1hsxngymLvMGQseF6fbftoedMdZj59ii+PiHRM/p3ZFgTNn9T2EFtAzZ/btikNd/gWGfmG7sxvk73Hd9oU77zNsYbbRk2G2tpHuLdsLwXbpvlytwaQXQuTf4wB+yBqnLAjYW1gdJqvmw+9jwqh208j5wDDxoj/ke1/q70V6P0u5/tcrnYchYAAA==&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=0f1a4ef293838314e34b33ddfaba106c"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Create Catalog Task"&gt;af51fd0e73141300612c273ffff6a785&lt;/action_type&gt;&lt;action_type_parent display_value="Create Catalog Task"&gt;f597c41073081300612c273ffff6a767&lt;/action_type_parent&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot&gt;af51fd0e73141300612c273ffff6a785&lt;/compiled_snapshot&gt;&lt;display_text/&gt;&lt;flow display_value="Software Request Workflow"&gt;831a4ef293838314e34b33ddfaba1024&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;2&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;4b1a4ef293838314e34b33ddfaba106e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;ui_id&gt;4d891f57-16de-4be1-b827-e49e19986fd0&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+2YXW/bNhSG/4qhqxUwPEl2LCN3WwIDA7oWiIPsoi4ISqJsopSoUpTdzPB/36FISvJHVLtwOmdYrmKSEt/z8fAc6tPGobFz6wThjZfELgmG3sgbuu7Y8yM/GCbwN8ZBSJy+k+GUwMoIS8z4Aq2woDhkpICpFWalmoN/Y1rkDD8/NSPRkrJYkMy5/fS57+RYwHskEc7tZm/qVCEMh4TB0jutpPfUUtIhUj7naqpgZbEMy+gLkWbwvXnfTM30frdTXMRK5bjvkG+SZDEBeQlmBek7Kc5iLLl4rkcEwfHHjDUDS5pJbX+KvxX0b9ja813XVUsTAjZHxj31T2Rcp4eTezBhJkUZyVLUnuQ0Alsqb8UkwSWTd+0xveBjLinP9CNSWW+e5qxMsw/aQU79glakygJEkFzZqsQbS5LZkq8frMopzSq3mEnGI8zqX1hKQcNSKj2QWAVKGAyRrIkDygipPOlUj8CmhJEUtkMpznOaLVAu+IpWW4DidLBg8GOQML4GaQVdZAMcKfMGEAA8mML4fTVsk+BPeA083HcKXgpwqnUAlSRFvPIMaFirBZGguYrROmn0/fIOZmgWsTImKAX3UAE719NEgmUORIUYd7WEEYHWQu9ulmxhk+fijuGiaNwO8UZfS+U0HQTjbqQjtrW6fgMrV8R4dts3mA6DLjrwuCEAL1Gx5EIqcdULVUo0pM54ItdYkN60ZAllTIWg94iLL4cIdy09j+0T1Fu2Z0p7735He7dlFm/IwGyxT7YdNEz7/zP9g0y/Dq2XBwUnXak2meykU+VQVP1uCCkiGD/GQzNxXvafIMlm/6MS1PugBb2g0+T7wdj7Y+8wee+emffqFDua9pPrzflW3PTE/UvhexNowC5MPVPJrjqZuv5AfdUIGN/oinp5loJh57Ht7uSoIF9LUkgSI1VxWzxtNjMiVhDWnunbkDcwi6ul2+0lusfvS7WMPVihvT+00A4bDGtNxu+i9tAaN6R53aRpsE4pMEN/lzTIA5BnhR2D7sCwN1l2khnBIlpOKWEqsFmZhpqGn8Ich6igWPA8N0a/Uj+XdHZEYatMQSghvpIge7XZw+sC8Jwgpi5QRo1leY+hl8Sez9HNxTq1IyCBui6Q9mz7T2Ck24GfAxF06VC3qv3/NYL8nYN9jalsMeMdQmNK60XB8Vvg/KUVHEgyZIScM4KzPS4eQdSvU3NfNmCMLgbG6Hp7ORON441c6xZ+9V3cKzRl3XfpaCfJEoV/+0Md6ACRlaELwct8XrruMN7MLQ5z53ZeX/znTn+un6yGJ3gUx7BvNPY83w8mrgdXdzwK4X4zCjAOquVgLaLxieuPdH7XJ/DMRvT74bFHwtQG50i87CXP1lMdv73TwdbiJzNpTojhxU6I8c3BR47mFtVVOc1XoiuonLrhfvOnAs3yUhaD3W8BL5wUn/8B/h6x4twXAAA=&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=4b1a4ef293838314e34b33ddfaba106e"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_831a4ef293838314e34b33ddfaba1024&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;0b1a4ef293838314e34b33ddfaba103b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;request_item&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Request Item&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_831a4ef293838314e34b33ddfaba1024&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:22&lt;/sys_created_on&gt;&lt;sys_id&gt;c31a4ef293838314e34b33ddfaba1060&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:22&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_831a4ef293838314e34b33ddfaba1024"/&gt;&lt;sys_hub_flow action="UPDATE"&gt;&lt;sys_id&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/sys_id&gt;&lt;latest_snapshot&gt;831a4ef293838314e34b33ddfaba1024&lt;/latest_snapshot&gt;&lt;compiler_build/&gt;&lt;version_record/&gt;&lt;/sys_hub_flow&gt;&lt;sys_flow_trigger_plan action="delete_multiple" query="plan_id=ed39b46a930bcfd0e34b33ddfaba1035^sys_idNOT INd71a4ef293838314e34b33ddfaba109f"/&gt;&lt;sys_flow_trigger_plan action="INSERT_OR_UPDATE"&gt;&lt;binding_strategy&gt;com.snc.process_flow.engine.binding.RunAlways&lt;/binding_strategy&gt;&lt;plan/&gt;&lt;plan_id&gt;ed39b46a930bcfd0e34b33ddfaba1035&lt;/plan_id&gt;&lt;snapshot&gt;831a4ef293838314e34b33ddfaba1024&lt;/snapshot&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 15:27:23&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d71a4ef293838314e34b33ddfaba109f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_overrides/&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 15:27:23&lt;/sys_updated_on&gt;&lt;trigger display_value=""&gt;571a4ef293838314e34b33ddfaba109e&lt;/trigger&gt;&lt;/sys_flow_trigger_plan&gt;&lt;sys_flow_subflow_plan action="delete_multiple" query="plan_id=ed39b46a930bcfd0e34b33ddfaba1035"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>784520253</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>dacd963e93078314e34b33ddfaba1063</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06d081ec70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>Software Request Workflow</target_name>
+<type>Flow</type>
+<update_domain>global</update_domain>
+<update_guid>1f1a4ef2558383141eb1175539af69b8</update_guid>
+<update_guid_history>1f1a4ef2558383141eb1175539af69b8:784520253,761a0ef2d58383143c76cd30666a48f4:-1969620197,38b34daeca4bcfd02c9d8720e6d703a0:2008859285,f882092eb34bcfd0b03bef538238eea8:-489637300,a53101aab54bcfd0e5e237bff9714d87:334153441,e501896a394bcfd0a065774213092c60:-2125796737,b83ef0267f4bcfd016c00e2a61f78995:-1264801719,ce1e3026ca4bcfd043f718a378eabf3a:-885035382,450e7ce22a4bcfd030f3a3386fee469c:873559451,2b9cb0624e4bcfd03b4b8b7e1a1e2498:-430837269,c98cfc22554bcfd0c6d124e2f73bc011:1117492849,ed2cf022f34bcfd006a87d65895f62d7:-1446117297,030c3022b64bcfd09834ec0df7f6e252:-1601098900,35fb7cee8b0bcfd0020eb9855d7207fe:-982208069,ef9930ea1a0bcfd08c18187726194ba9:-283149236,b899fcaae60bcfd0a15b9a31d81d6a4a:-708692558,6939b0aaaa0bcfd0d7cf5843e89d94fe:1695354695</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_638549a2938bcfd0e34b33ddfaba10a9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Software Installation Request"&gt;b2f385ee934bcfd0e34b33ddfaba10cb&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;hide_on_grid&gt;false&lt;/hide_on_grid&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;why_do_you_need_this_software&lt;/name&gt;&lt;no_auto_populate_also_request_for&gt;false&lt;/no_auto_populate_also_request_for&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;300&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt; Why do you need this software?&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:49:40&lt;/sys_created_on&gt;&lt;sys_id&gt;638549a2938bcfd0e34b33ddfaba10a9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt; Why do you need this software?&lt;/sys_name&gt;&lt;sys_package display_value="Software Request Management" source="x_2057392_softwa_0"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Software Request Management"&gt;1580746a93c7cfd0e34b33ddfaba107c&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_638549a2938bcfd0e34b33ddfaba10a9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:49:40&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;2&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=638549a2938bcfd0e34b33ddfaba10a9"/&gt;&lt;fx_price action="delete_multiple" query="id=638549a2938bcfd0e34b33ddfaba10a9"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;638549a2938bcfd0e34b33ddfaba10a9&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:49:40&lt;/sys_created_on&gt;&lt;sys_id&gt;04a54da2938bcfd0e34b33ddfaba1092&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:49:40&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;638549a2938bcfd0e34b33ddfaba10a9&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-03 15:49:40&lt;/sys_created_on&gt;&lt;sys_id&gt;48a54da2938bcfd0e34b33ddfaba1091&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-03 15:49:40&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>190129994</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>decd5ef693078314e34b33ddfaba10a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a067f62ad70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name> Why do you need this software?</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>48a54da2788bcfd07bb2fc55d0930696</update_guid>
+<update_guid_history>48a54da2788bcfd07bb2fc55d0930696:190129994</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_e5d011ea93cbcfd0e34b33ddfaba1024</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>create</operation><source_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-03 16:38:39</sys_created_on><sys_id>e5d011ea93cbcfd0e34b33ddfaba1024</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package><sys_policy/><sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope><sys_update_name>sys_scope_privilege_e5d011ea93cbcfd0e34b33ddfaba1024</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-03 16:38:39</sys_updated_on><target_name>incident</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-715518979</payload_hash>
+<remote_update_set display_value="Software Request Management Setup">c2cd5ef693078314e34b33ddfaba10a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-04 16:53:20</sys_created_on>
+<sys_id>decd963e93078314e34b33ddfaba1064</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0682300300000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-04 16:53:20</sys_updated_on>
+<table/>
+<target_name>incident</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>a5d011ea32cbcfd0efa87f0397147526</update_guid>
+<update_guid_history>a5d011ea32cbcfd0efa87f0397147526:-715518979</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

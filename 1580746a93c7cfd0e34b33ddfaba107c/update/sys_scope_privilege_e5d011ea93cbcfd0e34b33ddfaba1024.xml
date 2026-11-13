@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-03 16:38:39</sys_created_on>
+        <sys_id>e5d011ea93cbcfd0e34b33ddfaba1024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_package display_value="Software Request Management" source="x_2057392_softwa_0">1580746a93c7cfd0e34b33ddfaba107c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Request Management">1580746a93c7cfd0e34b33ddfaba107c</sys_scope>
+        <sys_update_name>sys_scope_privilege_e5d011ea93cbcfd0e34b33ddfaba1024</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-03 16:38:39</sys_updated_on>
+        <target_name>incident</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
